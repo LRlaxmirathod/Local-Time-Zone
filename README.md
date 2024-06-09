@@ -11,8 +11,7 @@ Responsive Design: Ensures that the application is visually appealing and functi
 Flexbox Layout: Implements Flexbox for efficient and flexible layout management, ensuring that elements are properly aligned and centered within the viewport.
 Viewport Height Utilization: The design leverages viewport height units to maintain proportional element sizes relative to the screen size, enhancing the user experience.
 Minimalist and Modern UI: Adopts a clean and modern user interface, with a focus on readability and user engagement.
-You can view a screenshot of the application below:
- (Upload your screenshot to LinkedIn and link it here)
+
 
 Technologies Used:
 HTML
